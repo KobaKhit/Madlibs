@@ -16,4 +16,4 @@ Make sure that all the files in the repo are located in the project folder on yo
 
 ##Test Log
 Linked is the screenshot of what the program looks like in MVS 2010
-[screen](http://imgur.com/Zx1SSg7)
+![screen](http://i.imgur.com/Zx1SSg7.png?1)
