@@ -16,4 +16,4 @@ Make sure that all the files in the repo are located in the project folder on yo
 
 ##Test Log
 Below is the screenshot of what the program looks like in MVS 2010
-![screen](/Users/Koba/Documents/Drexel/Courses/2014/Winter2014/CS171/Hw2/Hw2.xcodeproj)
+[screen](/Users/Koba/Documents/Drexel/Courses/2014/Winter2014/CS171/Hw2/Hw2.xcodeproj)
