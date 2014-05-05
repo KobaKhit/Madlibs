@@ -9,11 +9,11 @@ First, the program displays the instructions if user desires so by calling the p
 I wrote and compiled this program in Microsoft Visual Studio 2010. I tested it in XCode and it runs there fine, albeit, in XCode the input of the skeleton text file name is a bit different. 
 
 ####Running Madlibs in MVS 2010
-Make sure that all the files in the repo are located in the project folder on your computer. When the program prompts for the file name just enter `Madlibs.txt` without quoatation marks. You may suppply your own file with skeleton text, just be sure to include the descirptors in the right format which you find by looking at the Madlibs.txt contents.
+Make sure that all the files in the repo are located in the project folder on your computer. When the program prompts for the file name just enter `Madlibs.txt` without quoatation marks. You may suppply your own file with skeleton text, just be sure to include the descirptors in the right format which you can find by looking at the Madlibs.txt contents.
 
 ####Running Madlibs in XCode
 Make sure that all the files in the repo are located in the project folder on your computer. When the program prompts for the file name you will have to enter the full path. For example, on my computer the Madlibs files are located in the Madlibs folder on my desktop. Hence, the file name should be entered as `/Users/Koba/Desktop/Madlibs/Madlibs.txt`.
 
 ##Test Log
-Below is the screenshot of what the program looks like in MVS 2010
+Below is the screenshot of what the program looks like on a Windows machine.
 ![screen](http://i.imgur.com/Zx1SSg7.png?1)
