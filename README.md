@@ -15,5 +15,6 @@ Make sure that all the files in the repo are located in the project folder on yo
 Make sure that all the files in the repo are located in the project folder on your computer. When the program prompts for the file name you will have to enter the full path. For example, on my computer the Madlibs files are located in the Madlibs folder on my desktop. Hence, the file name should be entered as `/Users/Koba/Desktop/Madlibs/Madlibs.txt`.
 
 ##Test Log
-Below is the screenshot of what the program looks like on a Windows machine.
-![screen](http://i.imgur.com/Zx1SSg7.png?1)
+Below are the screenshots of what the output looks like on a Windows machine and a Mac:
+![Windows](http://i.imgur.com/Zx1SSg7.png?1)
+![Mac](http://i.imgur.com/5azthOD.png?1)
