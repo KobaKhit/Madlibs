@@ -9,7 +9,7 @@
 using namespace std;
 
 //--------------Prototype-----------
-string promptForString(string prompt);
+static string promptForString(string prompt);
 
 //-----------Subprogram----------. 
 /*This function outputs a string to the console, accepts and returns user supplied string input. 
